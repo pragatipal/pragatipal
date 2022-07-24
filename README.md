@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pragati</h1>
-<h3 align="center">I’m currently exploring various fields in tech including Programming, Web development and also my own core subjects of course.</h3>
+<h3 align="center">I’m an ECE student, currently exploring various fields in tech including Programming, Web development and also my own core subjects of course.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragatipal&label=Profile%20views&color=0e75b6&style=flat" alt="pragatipal" /> </p>
 
