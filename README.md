@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pragati</h1>
-<h3 align="center">Hi there! 🖖 Thank you for visiting my Github profile! I'm an Android developer with a love for building amazing apps and a passion for creating intuitive and user-friendly experiences that make a difference in people's lives. 🤓 I am learning to apply Data Structures and Algorithms for solving coding questions in C++ and a passion for creating intuitive and user-friendly experiences.
+<h2>Hi there! 🖖 Thank you for visiting my Github profile! I'm an Android developer with a love for building amazing apps and a passion for creating intuitive and user-friendly experiences that make a difference in people's lives. 🤓 I am learning to apply Data Structures and Algorithms for solving coding questions in C++ and a passion for creating intuitive and user-friendly experiences.
 
 In addition to my expertise in mobile development, I also have experience in web development and a love for crafting engaging and dynamic websites. 💻
 
