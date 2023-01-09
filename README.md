@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pragati</h1>
-<h3 align="center">I’m an ECE student, currently exploring various fields in tech including Programming, Web development and also my own core subjects of course.</h3>
+<h3 align="center">Hello and welcome to my GitHub profile! I'm a creative and driven software development enthusiast with a love for building things that make a difference. Whether it's creating a new tool that streamlines a process or designing an engaging user experience, I'm always up for a challenge. In my spare time, you can find me experimenting with cutting-edge technologies and working on my own personal projects. I'm always looking for new opportunities to learn and grow, so don't hesitate to reach out and connect.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragatipal&label=Profile%20views&color=0e75b6&style=flat" alt="pragatipal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragatipal" alt="pragatipal" /></a> </p>
-
-- 🔭 I’m currently working on **anxiety calming android app.**
 
 - 🌱 I’m currently learning **Android**
 
