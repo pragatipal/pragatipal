@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pragati</h1>
-<h3 align="center">Hello and welcome to my GitHub profile! I'm a creative and driven software development enthusiast with a love for building things that make a difference. Whether it's creating a new tool that streamlines a process or designing an engaging user experience, I'm always up for a challenge. In my spare time, you can find me experimenting with cutting-edge technologies and working on my own personal projects. I'm always looking for new opportunities to learn and grow, so don't hesitate to reach out and connect.</h3>
+<h3 align="center">Hi there! 🖖 Thank you for visiting my Github profile! I'm an Android developer with a love for building amazing apps and a passion for creating intuitive and user-friendly experiences that make a difference in people's lives. 🤓 I am learning to apply Data Structures and Algorithms for solving coding questions in C++ and a passion for creating intuitive and user-friendly experiences.
+
+In addition to my expertise in mobile development, I also have experience in web development and a love for crafting engaging and dynamic websites. 💻
+
+As a confident and dynamic public speaker, I have a proven track record of effectively communicating technical concepts to a wide range of audiences. I'm always looking for new opportunities to share my knowledge and experience with others. 🎤
+
+In my free time, you can find me tinkering with the latest technologies and exploring new dishes! 
+The artsy itch in me always motivates to explore more genres in art and that way I also tumbled into graphic designing and delivered many visually appealing and effective designs that helped businesses and organisations I worked with stand out and achieve their goals. 🎨
+
+In addition to my experience working with clients, I have also earned my college fees through freelance work in this field. As a creative problem-solver and lifelong learner, I'm always looking for new challenges and opportunities to grow and improve. 💯
+
+If you're in need of a dedicated and driven professional to join your team, I'd love to connect and explore potential opportunities for collaboration. Let's make something amazing together! 🤝🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragatipal&label=Profile%20views&color=0e75b6&style=flat" alt="pragatipal" /> </p>
 
